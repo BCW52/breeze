@@ -1,0 +1,1 @@
+install(DIRECTORY Capitaine-Cursors DESTINATION ${KDE_INSTALL_ICONDIR})
